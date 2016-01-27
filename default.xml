@@ -27,6 +27,7 @@
   <!-- HERMES -->
   <project path="device/BLU/BLU_PURE_XL" name="acheron1502/android_device_BLU/BLU_PURE_XL" remote="github" revision="cm-12.1" />
   <project path="vendor/BLU/BLU_PURE_XL" name="acheron1502/android_vendor_BLU/BLU_PURE_XL" remote="github" revision="cm-12.1" />
+  <project path="kernel/BLU/BLU_PURE_XL" name="acheron1502/android_kernel_BLU/BLU_PURE_XL" remote="github" revision="cm-12.1" />
 
   <project path="abi/cpp" name="CyanogenMod/android_abi_cpp" groups="pdk" />
   <project path="art" name="CyanogenMod/android_art" groups="pdk" />
