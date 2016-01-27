@@ -24,7 +24,7 @@
 
   <project path="android" name="CyanogenMod/android" />
   
-  <!-- HERMES -->
+  <!-- BLU PURE XL -->
   <project path="device/BLU/BLU_PURE_XL" name="acheron1502/android_device_BLU_BLU_PURE_XL" remote="github" revision="cm-12.1" />
   <project path="vendor/BLU/BLU_PURE_XL" name="acheron1502/android_vendor_BLU_BLU_PURE_XL" remote="github" revision="cm-12.1" />
   <project path="kernel/BLU/BLU_PURE_XL" name="acheron1502/android_kernel_BLU_BLU_PURE_XL" remote="github" revision="cm-12.1" />
